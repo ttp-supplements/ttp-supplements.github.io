@@ -2919,7 +2919,7 @@ input, select, textarea {
 		background-color: #ffffff;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #fF6633 5%, #FF9933 30%, #FF6633);
+		background-image: linear-gradient(40deg, #FF6633 30%, #FF9933 70%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -3115,7 +3115,7 @@ input, select, textarea {
 		background-color: #FF9933;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #fF6633 5%, #FF9933 30%, #FF6633);
+		background-image: linear-gradient(-45deg,#FF6633 10%,  #FF9933 50%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
